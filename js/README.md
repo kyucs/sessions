@@ -8,7 +8,7 @@ Below are the recommended resources to have you achieve fundamental understandin
 
 1. Introduction to JavaScript: [Download Handbook](https://flaviocopes.pages.dev/books/js-handbook.pdf)
 2. DOM manipulation: [Read article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
-3. Crash Course - Youtube: [Watch tutorial](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+3. Crash Course - Youtube: [Watch tutorial](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 At this point, you should be able to demonstrate basic understanding of the language fundamentals in building something of your own.
 
