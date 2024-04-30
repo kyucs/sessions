@@ -1,3 +1,5 @@
+![](./gaming.png)
+
 # Introduction to Game Development
 
 Welcome to the world of game development! 
@@ -40,7 +42,7 @@ Certainly! Here are some additional topics and resources that you can consider a
 
 ## Further Self-Study
 
-- [HTML5 Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API): A complete guide to creating animation, game graphics, data visualization, photo manipulation, and real-time video processing via [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and the HTML [<canvas>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) element.
+- [HTML5 Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API): A complete guide to creating animation, game graphics, data visualization, photo manipulation, and real-time video processing via [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and the [HTML Canvas](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) element.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/): A comprehensive guide to common design patterns used in game development.
 - [Unity Learn](https://learn.unity.com/): Explore tutorials and resources for learning Unity, a popular game development engine used to create 2D and 3D games.
 
