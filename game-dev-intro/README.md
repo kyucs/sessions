@@ -32,8 +32,6 @@ This readme provides an overview of the core concepts in this field, essential f
 
 12. **User Interface (UI)**: Designing and implementing user interfaces for menus, HUDs (Heads-Up Displays), and in-game UI elements improves usability and enhances the player's interaction with the game.
 
-Certainly! Here are some additional topics and resources that you can consider adding to the README file:
-
 13. **Game Development Engines**: Explore popular game development engines such as Unity, Unreal Engine, and Godot Engine, which provide powerful tools and workflows for creating games.
 
 14. **Game Design Principles**: Explore fundamental game design principles such as player motivation, game mechanics, level design, and player feedback, essential for creating engaging and enjoyable games.
