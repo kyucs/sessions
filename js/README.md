@@ -1,3 +1,5 @@
+![](./javascript.png)
+
 # JavaScript
 This is mainly intended for beginners looking into exploring the web development journey.
 
