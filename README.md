@@ -6,3 +6,4 @@ This section holds resources and source code for weekly sessions.
 >Note: All previous sessions are under review and proper refining. They will available soon.
 
 1. [Introduction to JavaScript](./js/)
+2. [Game Development Fundamentals](./game-dev-intro/)
