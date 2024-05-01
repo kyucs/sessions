@@ -6,7 +6,16 @@ Welcome to the world of game development!
 
 This readme provides an overview of the core concepts in this field, essential for programmers venturing into game development.
 
+## Demos
+
+This section contains the console-based maze game developed during the session and a browser-based game developed for inspiration.
+
+- Maze - [Code](https://github.com/kyucs/sessions/tree/main/game-dev-intro/maze/)
+- DuckGo - [Code](https://github.com/kyucs/sessions/tree/main/game-dev-/duckgo/) - [Demo](./duckgo/)
+
 ## Core Concepts
+
+This section contains handpicked concepts that you should learn in order to have solid foundation in game development. 
 
 1. **Game Loop**: The game loop is the central structure that continuously updates and renders the game state, ensuring smooth gameplay and interaction.
 

@@ -1,4 +1,7 @@
 /**
+ *             DuckGo 
+ * 
+ * 
  * Introduction to Game Development
  *              with 
  *          HTML5 Canvas
@@ -70,9 +73,9 @@ const player = {
     vy: 1,
     frames: (() => {
         const idle = new Image();
-        idle.src = '/img/ducky-idle.png';
+        idle.src = './img/ducky-idle.png';
         const walk = new Image();
-        walk.src = '/img/ducky-walk.png';
+        walk.src = './img/ducky-walk.png';
         return [idle, walk];
     })(),
     frame: {
