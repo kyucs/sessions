@@ -56,7 +56,7 @@ int wallCollision()
 void getAction()
 {
 	char c;
-	printf("\nmove: ");
+	printf("\n");
 	scanf("%c", &c);
 
 	/* *
