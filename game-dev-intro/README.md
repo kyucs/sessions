@@ -11,7 +11,7 @@ This readme provides an overview of the core concepts in this field, essential f
 This section contains the console-based maze game developed during the session and a browser-based game developed for inspiration.
 
 - Maze - [Code](https://github.com/kyucs/sessions/tree/main/game-dev-intro/maze/)
-- DuckGo - [Code](https://github.com/kyucs/sessions/tree/main/game-dev-/duckgo/) - [Demo](./duckgo/)
+- DuckGo - [Code](https://github.com/kyucs/sessions/tree/main/game-dev-intro/duckgo/) - [Demo](./duckgo/)
 
 ## Core Concepts
 
